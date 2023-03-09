@@ -76,3 +76,8 @@ mkdir -p welcome/to/school
 #!/bin/bash
 ls -xamp
 
+school.mgc
+0 string HOLBERTON Holberton data
+!:mime Holberton
+
+
