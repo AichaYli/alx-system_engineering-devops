@@ -1,1 +1,1 @@
-My job of Shell, basics
+My Work of Shell, basics
